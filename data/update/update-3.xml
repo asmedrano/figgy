@@ -1,5 +1,6 @@
 <book id="12345ABC">
     <!-- note that this id conflicts with other values -->
+    <version>1.0</version>
     <title>this is the third book, 2nd edition</title>
     <description>A short description about the third book. Additional Description about the third book.</description>
     <aliases>
